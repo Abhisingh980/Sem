@@ -7,6 +7,9 @@ public class unary {
         System.out.println(x++);
         System.out.println(--x);
         System.out.println(x--);
+        System.out.println(x);
+        short y=5;
+        System.out.println(y);
     }
     
 }
